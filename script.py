@@ -8,3 +8,4 @@ else:
 	print ("Executed when imported")
 
 a = 3
+b=3
